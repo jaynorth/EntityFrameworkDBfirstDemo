@@ -10,6 +10,9 @@ namespace DataBaseFirstDemo_EF
     {
         static void Main(string[] args)
         {
+
+            DBfirstDemo_EFEntities context = new DBfirstDemo_EFEntities();
+
         }
     }
 }
